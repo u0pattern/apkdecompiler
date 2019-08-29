@@ -5,7 +5,7 @@
 
 # Requirements
 
-Only **JAVA!**
+Only **JAVA!** and **needs** folder in \Lib\site-packages\apkdecompiler
 
 ## Examples
 
