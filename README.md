@@ -7,7 +7,7 @@
 
 Only **JAVA!** and **needs** folder in \Lib\site-packages\apkdecompiler or just edit [Should be JADX in %PATH%] :-
 ```python
-os.system(jadx -d '+str(folder)+' '+str(self.apkfile))
+os.system('jadx -d '+str(folder)+' '+str(self.apkfile))
 ```
 
 ## Examples
