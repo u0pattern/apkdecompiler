@@ -1,1 +1,1 @@
-from apkdecompiler.apkdecompiler import APKDecompile
+from apkdecompiler import APKDecompile
