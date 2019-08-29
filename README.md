@@ -1,5 +1,8 @@
 ﻿**APKDecompiler** is a Python library that compiles [APK/DEX] file using [JADX](https://github.com/skylot/jadx) .
 
+# Install :-
+`pip install git+https://github.com/1337r00t/apkdecompiler#egg=apkdecompiler`
+
 # Requirements
 
 Only **JAVA!**
