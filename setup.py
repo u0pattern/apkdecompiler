@@ -8,7 +8,7 @@ setup(
   author = '1337r00t',
   author_email = 'null@1337r00t.me',
   url = 'https://github.com/1337r00t/decompiler',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/1337r00t/apkdecompiler/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['apk', 'decompiler', 'dex'],
   classifiers=[
     'Development Status :: 3 - Alpha',
